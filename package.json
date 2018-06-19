@@ -1,0 +1,30 @@
+{
+  "name": "gautam",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mime": "^2.2.0",
+    "mongoose": "^5.0.8",
+    "multer": "^1.3.0",
+    "nodemon": "^1.17.1",
+    "public-ip": "^2.4.0",
+    "request-ip": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasingobial/sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yasingobial/sample/issues"
+  },
+  "homepage": "https://github.com/yasingobial/sample#readme",
+  "description": ""
+}
